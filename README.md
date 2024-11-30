@@ -1,6 +1,21 @@
-- Selam, ben Hüseyin Durukan!
-  -  Burada yaptığım çalışmaları paylaşmaktayım.İncelemek için aşağıya bakabilirsiniz.
+- 𝑆𝑒𝑙𝑎𝑚, 𝑏𝑒𝑛 𝐻𝑢̈𝑠𝑒𝑦𝑖𝑛 𝐷𝑢𝑟𝑢𝑘𝑎𝑛! 
+- 𝐵𝑢𝑟𝑎𝑑𝑎 𝑦𝑎𝑝𝑡ı𝑔̆ı𝑚 𝑐̧𝑎𝑙ı𝑠̧𝑚𝑎𝑙𝑎𝑟ı 𝑝𝑎𝑦𝑙𝑎𝑠̧𝑚𝑎𝑘𝑡𝑎𝑦ı𝑚.𝐼̇𝑛𝑐𝑒𝑙𝑒𝑚𝑒𝑘 𝑖𝑐̧𝑖𝑛 𝑎𝑠̧𝑎𝑔̆ı𝑦𝑎 𝑏𝑎𝑘𝑎𝑏𝑖𝑙𝑖𝑟𝑠𝑖𝑛𝑖𝑧.
+" ⤵
 - YKS Hazırlık Kitabı Tasarımı "Hüseyin Durukan TYT Matematik VDB" 
   - ▶ İncelemek için : https://drive.google.com/file/d/1BmgqQGwI5lGZJp0pD6aRlwc0mSkZsRuR/view?usp=sharing
-- Slient Bot'a hazırlamış olduğım Vektörel Logo Çalışması
+- Slient Bot'a hazırlamış olduğum Vektörel Logo Çalışması
   - ▶ İncelemek için : https://drive.google.com/file/d/1zdyw0bY30cnoww_wD5Y1vL-QllWQxzan/view?usp=sharing
+- GNG Deathmatch MTA sunucusuna hazırlamış olduğum Text Logo Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1lk1-hfYl0Wo850rc7-E29_r0kYQVqrPe/view?usp=sharing
+- Textecht Youtube kanalına hazırlamış olduğum Vektörel Logo Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1K7lBxTlve1a0h_2WAiMTJtjA7jZh4CK1/view?usp=sharing
+- Seth Ekonomi Bot'u için hazırlamış olduğum Vektörel Logo & Coin Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1d-qTiDajviTe9S6kU0G11dGqtG_dR2OM/view?usp=sharing
+- Rupee Community adlı sunucu için hazırlamış olduğum Emoji Çalışmaları
+  - ▶ İncelemek için : https://drive.google.com/file/d/1PhxI6dXxIzawCMYTYnKnodES8jrHvUw5/view?usp=sharing
+- AnkSOFT Bilişim ve Telekomünikasyon Hizmetleri adlı firmaya yapmış olduğum Sosyal Medya Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1KoKvVbkejuFqMmUVqu8EvhIPKV5lRRoh/view?usp=sharing
+- Syrox adlı nicke sahip olan kişinin botuna hazırlamış olduğum Vektörel Logo Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1AGO7eihvfn3qgHd7EqtvCkJKJLxHuPmV/view?usp=sharing
+- Arox Bot'una ait olan Vektörel Logo Çalışması
+  - ▶ İncelemek için : https://drive.google.com/file/d/1363hAQePZM0oY8X_jNaXEVsvBYroC0l-/view?usp=sharing
