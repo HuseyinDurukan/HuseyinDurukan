@@ -2,5 +2,5 @@
   -  Burada yaptığım çalışmaları paylaşmaktayım.İncelemek için aşağıya bakabilirsiniz.
 - YKS Hazırlık Kitabı Tasarımı "Hüseyin Durukan TYT Matematik VDB" 
   - ▶ İncelemek için : https://drive.google.com/file/d/1BmgqQGwI5lGZJp0pD6aRlwc0mSkZsRuR/view?usp=sharing
-- 
+- Slient Bot'a hazırlamış olduğım Vektörel Logo Çalışması
   - ▶ İncelemek için : https://drive.google.com/file/d/1zdyw0bY30cnoww_wD5Y1vL-QllWQxzan/view?usp=sharing
